@@ -134,3 +134,4 @@ out/
 _BUILD_KERNEL/
 net/wireguard/
 build_vers
+log.txt
